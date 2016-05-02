@@ -1,0 +1,26 @@
+{
+  "name": "angular-functionname-obfuscator",
+  "version": "1.0.0",
+  "description": "angular-functionname-obfuscator",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rienk-git/angular-functionname-obfuscator.git"
+  },
+  "keywords": [
+    "hook",
+    "angular-functionname-obfuscator"
+  ],
+  "author": "Rienk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rienk-git/angular-functionname-obfuscator/issues"
+  },
+  "homepage": "https://github.com/rienk-git/angular-functionname-obfuscator",
+  "dependencies": {
+    "fs-extra": "^0.30.0"
+  }
+}
